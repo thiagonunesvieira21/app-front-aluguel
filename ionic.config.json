@@ -1,0 +1,14 @@
+{
+  "name": "aluguel",
+  "app_id": "",
+  "type": "ionic-angular",
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "http://localhost:8765"
+    }
+  ],
+  "integrations": {
+    "cordova": {}
+  }
+}
